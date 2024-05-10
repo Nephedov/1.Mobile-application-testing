@@ -20,6 +20,10 @@
   <a href="https://docs.google.com/spreadsheets/d/1JuF7zM1OuVoky4bCR4RKT18mR0SX7FwDCD-WmlNboJU/edit?usp=share_link">баг-репорта</a>.
 
 
+---
+---
+
+
 ## Описание Задания 1
 
 Нужно тестировать новое мобильное приложение, которое пока в процессе разработки.
